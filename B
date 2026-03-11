@@ -1,1 +1,155 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="url(#a)" d="M5 5a3 3 0 0 1 3-3h13a6 6 0 0 1 6 6v19a3 3 0 0 1-3 3H11a6 6 0 0 1-6-6V5z"/><path fill="url(#b)" d="M6 5a2 2 0 0 1 2-2h13a5 5 0 0 1 5 5v19a2 2 0 0 1-2 2H11a5 5 0 0 1-5-5V5z"/><path fill="url(#c)" d="M6 5a2 2 0 0 1 2-2h13a5 5 0 0 1 5 5v19a2 2 0 0 1-2 2H11a5 5 0 0 1-5-5V5z"/><path fill="url(#d)" d="M22 17v5.531A1.47 1.47 0 0 1 20.531 24H15v-3a4.001 4.001 0 0 0-2.973-3.866L15.571 13 22 17z"/><path fill="url(#e)" d="M22 17.031a1.47 1.47 0 0 1-1.469 1.469h-6.41A3.991 3.991 0 0 0 11 17h-1v-2.3a1.89 1.89 0 0 1 1.878-1.89l8.855-.053L22 12v5.031z"/><path fill="url(#f)" fill-opacity=".6" d="M22 17.031a1.47 1.47 0 0 1-1.469 1.469h-6.41A3.991 3.991 0 0 0 11 17h-1v-2.3a1.89 1.89 0 0 1 1.878-1.89l8.855-.053L22 12v5.031z"/><path fill="url(#g)" fill-opacity=".1" d="M22 17.031a1.47 1.47 0 0 1-1.469 1.469h-6.41A3.991 3.991 0 0 0 11 17h-1v-2.3a1.89 1.89 0 0 1 1.878-1.89l8.855-.053L22 12v5.031z"/><path fill="url(#h)" d="M20.531 8A1.47 1.47 0 0 1 22 9.469v2.562a1.47 1.47 0 0 1-1.469 1.469h-8.076A2.455 2.455 0 0 0 10 15.955V10.52A2.519 2.519 0 0 1 12.519 8h8.012z"/><path fill="url(#i)" fill-opacity=".8" d="M20.531 8A1.47 1.47 0 0 1 22 9.469v2.562a1.47 1.47 0 0 1-1.469 1.469h-8.076A2.455 2.455 0 0 0 10 15.955V10.52A2.519 2.519 0 0 1 12.519 8h8.012z"/><rect width="13" height="13" x="1" y="18" fill="url(#j)" rx="3"/><rect width="13" height="13" x="1" y="18" fill="url(#k)" fill-opacity=".65" rx="3"/><path fill="#fff" d="m11.7 21-1.508 7H8.39l-.89-4.2-.932 4.2h-1.82L3.3 21h1.486l.894 4.62.888-4.62H8.39l.93 4.62.872-4.62H11.7z"/><defs><linearGradient id="a" x1="12.104" x2="16.851" y1="2" y2="29.972" gradientUnits="userSpaceOnUse"><stop stop-color="#BBB"/><stop offset="1" stop-color="#888"/></linearGradient><linearGradient id="b" x1="11.556" x2="15.786" y1="3" y2="29.035" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#EBEBEB"/></linearGradient><radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(10.5556 20.5833 -15.8333 7.71875 12.389 9.77)" gradientUnits="userSpaceOnUse"><stop offset=".177" stop-color="#fff"/><stop offset="1" stop-color="#EFEFEF"/></radialGradient><radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="matrix(27.5042 0 0 8.52474 21.416 24)" gradientUnits="userSpaceOnUse"><stop offset=".18" stop-color="#1657F4"/><stop offset=".575" stop-color="#0036C4"/></radialGradient><linearGradient id="e" x1="10.107" x2="19.174" y1="21.094" y2="21.094" gradientUnits="userSpaceOnUse"><stop stop-color="#66C0FF"/><stop offset=".256" stop-color="#0094F0"/></linearGradient><radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="matrix(-7.98381 15.2097 -17.5489 -41.5814 21.946 13.745)" gradientUnits="userSpaceOnUse"><stop offset=".14" stop-color="#D471FF"/><stop offset=".831" stop-color="#509DF5" stop-opacity="0"/></radialGradient><radialGradient id="g" cx="0" cy="0" r="1" gradientTransform="matrix(0 13.3025 -40.1142 0 20.214 24.117)" gradientUnits="userSpaceOnUse"><stop offset=".283" stop-color="#4F006F" stop-opacity="0"/><stop offset="1" stop-color="#4F006F"/></radialGradient><linearGradient id="h" x1="10.107" x2="21.944" y1="12.852" y2="13.029" gradientUnits="userSpaceOnUse"><stop stop-color="#9DEAFF"/><stop offset=".201" stop-color="#3BD5FF"/></linearGradient><radialGradient id="i" cx="0" cy="0" r="1" gradientTransform="matrix(-11.335 2.92732 -7.10275 -29.8256 21.946 9.18)" gradientUnits="userSpaceOnUse"><stop offset=".061" stop-color="#E4A7FE"/><stop offset=".539" stop-color="#E4A7FE" stop-opacity="0"/></radialGradient><radialGradient id="j" cx="0" cy="0" r="1" gradientTransform="rotate(45 -21.228 10.207) scale(18.3848)" gradientUnits="userSpaceOnUse"><stop offset=".081" stop-color="#367AF2"/><stop offset=".872" stop-color="#001A8F"/></radialGradient><radialGradient id="k" cx="0" cy="0" r="1" gradientTransform="matrix(0 9.1 -10.3715 0 7.5 25.8)" gradientUnits="userSpaceOnUse"><stop offset=".587" stop-color="#2763E5" stop-opacity="0"/><stop offset=".974" stop-color="#58AAFE"/></radialGradient></defs></svg>
+The Projection Room  
+
+ 
+
+The business content  
+
+The cinema industry is based on providing unique film viewing experiences that cannot be replicated at home. To help get see this experience the cinema industry uses immersive technology, a context of food and drinks available to the customers, comfort and events are supported around these as it would help keep customers to come frequently. Sometimes the industry has other add-ons to be different from its competitors. The cinema industry is increasing on streaming services which fundamentally altered the entertainment landscape. These cinemas are facing with multiple forms of entertainment and leisure. However, cinemas are prioritizing experiences over the digital content and from this they are finding more success though customers’ feedback. This industry is also competing against at home entertainment which led them to find other unique experiences. 
+
+The functional requirements of the solution   
+
+Number 
+
+Features  
+
+Priority 
+
+Justification  
+
+1 
+
+Users can sign up  
+
+High  
+
+The users would not be able to purchase tickets if this does not work 
+
+2 
+
+Users can login   
+
+High 
+
+The users would not be able to their account on the website if this does not work 
+
+3 
+
+Send an email to the customer when they make an account  
+
+Low  
+
+This would make sure the system has correct credentials 
+
+4 
+
+System will record uses data across the website 
+
+Medium  
+
+This would help find recommend films they might like and look at what they have watch or bought tickets for 
+
+5 
+
+Allow uses to search for films 
+
+Low  
+
+This would help users find films they might want to see or if the cinema has it  
+
+6 
+
+Allow users to see food choices 
+
+Low 
+
+To ensure when they reach the cinema, they have food they would like to eat  
+
+7 
+
+Send emails to customers when items are added 
+
+Low 
+
+This will help engaging the customers and know what is next coming up so they do not have to check 
+
+ 
+
+The Non-functional requirements of the solution   
+
+Number 
+
+Features  
+
+Priority  
+
+Justification 
+
+1 
+
+Website has good response time 
+
+High  
+
+If the Website doesn’t feel responsive to users, they might change cinema 
+
+2 
+
+Website is adaptable to any viewing device  
+
+Medium 
+
+It’s important to have website accessible to people no matter the device but as majority of users use a computer or laptop so they have bigger priority  
+
+3 
+
+The colour scheme is appropriate and allow customers to change it to fit their preferred style  
+
+High  
+
+User accessibility is important and if some users cannot see the website in the comfort, they might not use the services and which to other websites that do 
+
+4 
+
+User login credentials and any other personal data is secure 
+
+High 
+
+The user needs to be able to trust the services with credentials and information or they wouldn’t use it 
+
+5 
+
+The system should always be available  
+
+High 
+
+The website can lose a lot of traffic if it’s not available to everyone when they want it 
+
+ 
+
+Decomposition 
+
+The first issue is users will need internet access to be able to visit the site to solve this we would allow customers to walk in and browse what movie and food we have to offer. Another issue we would have is customers that need accessibility we would some of them by offering special seats and allowing them to also walk in. Thirdly, the website needs to be across different platforms, and we solve this by creating different models of the website to fit the users screen. 
+
+KPI and User acceptance  
+
+The key performance indicators for The Project Room tracking how many seats would be open to customers per screening to get an average amount of people that visit the cinema. Another indicator would be tracking sales though out the business spotting items or events they can increase the profit on. They could also find the total cost and sales to measure the difference and will let Projection Room if they have profited high in a certain amount of time. Next, the company can assess the total revenue subtract the direct cost allowing them to know the overall profitability and cost management. 
+
+The user acceptance of the projection room will allow the company to see what customers it attracts through their preferences and motivations. Set offers around the cinema like a mix of mainstream films, independent films and specialized content to fit customers different tastes and preferences. Next the cinema could enhance the cinematic experience by implementing advanced technology to create a more immersive and enjoyable viewing experience.  
+
+Solution 
+
+For the projection room I would create a website that customers could browse through and discover what we have to offer without signing up. However, there will be allowed *-+to sign or login to buy events, offers and tickets. The system will also track how much they are looking at a movie for or if they have watch it to hopefully give movie they might like. 
+
+On the top of every page will be a navigation bar to let customers get around easier. The first icon will be link to the home page and look like a house. Next, we would use a 3-line menu icon this will let customers see the films we have. Then, a hotdog icon will be put next to it so users can see what food they can purchase. Fourthly, tags would resemble offers and events the company has. The last icon will be an account to let sign or login in however if they are already in, they can customize the website background and see past purchases with account information. 
+
+The first page they will see is how home page that will list different pages and clear ways to visit different them. Under these links will be cinema info for example the contact number and email maybe even a back story on how the cinema was created and why. Further below this there we be a little person info about the owner/ owners who created the projection room. Dotted around this page will be popular films to advertise what films are available and make the website look less boring. 
+
+The films page would have rows of films with the genre so customers would not have to look through a large pile of films and not be a film they wouldn’t want to see. However, the first row would be recommended in this row will be films the system thinks they want to see. The second row will be films that have just be added to the cinema and the third row would be popular films that is most watch in the cinema. Then, users will also be allowed to search for films directly to make it much easier to find films. 
+
+The food page is simple it will list popular food on the left side and next to it will be hot drinks beside them are the cold drinks. For the people that have allergies there will be special products listed in the top right corner. Below this would be snacks and food offers the cinema has. In the food section each food will be in a category for example it will list popcorn and below it will be flavours available. For the drinks there we be different flavours or syrups they have. Each item will be click so customers can see a description and a picture. 
+
+The offers and events page are also simple and will list offers they have around the cinemas, and the events will be listed in groups of the arena you could find it at with a clickable link allowing users to view better information of the event and the date. 
+
+Justification 
+
+The solution would meet the clients’ needs by allowing them to access a admin page and can add or edits films, foods and advents. Using the edit feature they could change the type of genre the film should be, change the description of the film and the times you are allowed to see the film.  
